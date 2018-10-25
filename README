@@ -1,0 +1,16 @@
+  ============================================================================
+
+        SELECTION STRATEGY
+
+        This code is developed as part of a master project.
+
+        Auhor:          Vanessa Antunes
+        Professor:      Tiemi Christine Sakata
+        University:     UFSCar Sorocaba - SP - Brazil
+ 
+  ============================================================================
+  
+  Execution exemple:
+  
+  python hss.py -p /home/vanessa/UFSCar/algPartitions-E-corrigidos/2sp2glob/particoes/ -d /home/vanessa/UFSCar/datasets_modified/artificial/ufscar/2sp2glob/2sp2glob.txt -t /home/vanessa/UFSCar/datasets_modified/artificial/ufscar/2sp2glob/TP/ -o /home/vanessa/UFSCar/SelectionStrategyFinal/out_con_var/ -f /home/vanessa/UFSCar/SelectionStrategyFinal/plot_con_var -a 1 -c 0.3
+
